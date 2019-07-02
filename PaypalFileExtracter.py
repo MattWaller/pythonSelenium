@@ -86,7 +86,7 @@ driver.find_element_by_xpath('//*[@id="merchant-header-main-wrapper-internal"]/d
 time.sleep(1)
 driver.quit()
 
-
+# To relocate the file from OS to Google Drive
 
 from datetime import datetime, timedelta
 import xlrd
